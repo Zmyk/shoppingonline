@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.GoodsTypeDao;
-import com.shopping.entity.GoodsType;
+import com.shoppingonline.dao.GoodsTypeDao;
+import com.shoppingonline.entity.GoodsType;
 
 /**
  * Servlet implementation class adAddNewGoodsTypeServlet

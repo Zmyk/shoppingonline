@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.MyShoppingCarInfoDao;
-import com.shopping.entity.MyShoppingCarInfo;
+import com.shoppingonline.dao.MyShoppingCarInfoDao;
+import com.shoppingonline.entity.MyShoppingCarInfo;
 
 
 @WebServlet("/toMyShoppingCarServlet")

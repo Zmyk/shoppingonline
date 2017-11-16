@@ -9,10 +9,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.AdministorDao;
-import com.shopping.dao.GoodsInfoDao;
-import com.shopping.entity.Administor;
-import com.shopping.entity.GoodsInfo;
+import com.shoppingonline.dao.AdministorDao;
+import com.shoppingonline.dao.GoodsInfoDao;
+import com.shoppingonline.entity.Administor;
+import com.shoppingonline.entity.GoodsInfo;
 
 
 @WebServlet("/adloginServlet")

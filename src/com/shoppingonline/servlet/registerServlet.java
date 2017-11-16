@@ -6,8 +6,8 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import com.shopping.dao.UserTableDao;
-import com.shopping.entity.UserTable;
+import com.shoppingonline.dao.UserTableDao;
+import com.shoppingonline.entity.UserTable;
 
 
 public class registerServlet extends HttpServlet {

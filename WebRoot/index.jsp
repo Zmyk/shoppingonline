@@ -1,5 +1,5 @@
-<%@page import="com.shopping.entity.UserTable"%>
-<%@page import="com.shopping.entity.GoodsInfo"%>
+<%@page import="com.shoppingonline.entity.UserTable"%>
+<%@page import="com.shoppingonline.entity.GoodsInfo"%>
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
 	String path = request.getContextPath();

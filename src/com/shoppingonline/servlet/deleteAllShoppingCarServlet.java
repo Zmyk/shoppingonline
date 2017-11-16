@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.ShoppingCarDao;
+import com.shoppingonline.dao.ShoppingCarDao;
 
 /**
  * Servlet implementation class deleteShoppingCarServlet

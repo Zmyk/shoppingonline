@@ -8,8 +8,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.ShoppingCarDao;
-import com.shopping.entity.ShoppingCar;
+import com.shoppingonline.dao.ShoppingCarDao;
+import com.shoppingonline.entity.ShoppingCar;
 
 /**
  * Servlet implementation class deleteShoppingCarServlet

@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.GoodsDao;
-import com.shopping.entity.Goods;
+import com.shoppingonline.dao.GoodsDao;
+import com.shoppingonline.entity.Goods;
 
 /**
  * Servlet implementation class adRemoveSpecial_offerGoodsServlet

@@ -1,5 +1,5 @@
-<%@page import="com.shopping.entity.GoodsInfo"%>
-<%@page import="com.shopping.entity.Goods"%>
+<%@page import="com.shoppingonline.entity.GoodsInfo"%>
+<%@page import="com.shoppingonline.entity.Goods"%>
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
@@ -80,7 +80,7 @@
 	</div>
 </body>
 <div>
-<a style="margin-left: 900px; margin-top: 9000px" href="adAddNewGoodsServlet">添加商品</a>
+<a style="margin-left: 900px; margin-top: 9000px" href="adGetGoodsTypeServlet">添加商品</a>
 <a style="margin-left: 900px;margin-top: 50px" href="toHandleGoodsTypeServlet">商品类型管理</a>
 </div>
 </html>

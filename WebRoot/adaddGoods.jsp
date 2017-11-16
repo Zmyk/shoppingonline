@@ -1,4 +1,4 @@
-<%@page import="com.shopping.entity.GoodsType"%>
+<%@page import="com.shoppingonline.entity.GoodsType"%>
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>

@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.AdministorDao;
+import com.shoppingonline.dao.AdministorDao;
 
 /**
  * Servlet implementation class adUnLoginservlet

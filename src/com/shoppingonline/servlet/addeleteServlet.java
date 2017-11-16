@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shopping.dao.GoodsDao;
+import com.shoppingonline.dao.GoodsDao;
 
 @WebServlet("/addeleteServlet")
 public class addeleteServlet extends HttpServlet {
